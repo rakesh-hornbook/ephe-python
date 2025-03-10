@@ -1,0 +1,79 @@
+{
+    "julian_date": 2460744.7708333335,
+    "ut_time": "2025-03-10 06:30:00",
+    "lahiri_ayanamsa": 24.208302,
+    "planet_positions": {
+        "Sun": {
+            "sign": "Aquarius",
+            "degree": 25.726051,
+            "tropical": 349.934353,
+            "sidereal": 325.726051
+        },
+        "Moon": {
+            "sign": "Cancer",
+            "degree": 9.824022,
+            "tropical": 124.032324,
+            "sidereal": 99.824022
+        },
+        "Mercury": {
+            "sign": "Pisces",
+            "degree": 13.576053,
+            "tropical": 7.784355,
+            "sidereal": 343.576053
+        },
+        "Venus": {
+            "sign": "Pisces",
+            "degree": 15.213283,
+            "tropical": 9.421585,
+            "sidereal": 345.213283
+        },
+        "Mars": {
+            "sign": "Gemini",
+            "degree": 23.978557,
+            "tropical": 108.186859,
+            "sidereal": 83.978557
+        },
+        "Jupiter": {
+            "sign": "Taurus",
+            "degree": 18.920942,
+            "tropical": 73.129245,
+            "sidereal": 48.920942
+        },
+        "Saturn": {
+            "sign": "Aquarius",
+            "degree": 27.620884,
+            "tropical": 351.829187,
+            "sidereal": 327.620884
+        },
+        "Uranus": {
+            "sign": "Aries",
+            "degree": 29.693851,
+            "tropical": 53.902153,
+            "sidereal": 29.693851
+        },
+        "Neptune": {
+            "sign": "Pisces",
+            "degree": 5.027389,
+            "tropical": 359.235691,
+            "sidereal": 335.027389
+        },
+        "Pluto": {
+            "sign": "Capricorn",
+            "degree": 8.913447,
+            "tropical": 303.121749,
+            "sidereal": 278.913447
+        },
+        "Rahu (North Node)": {
+            "sign": "Pisces",
+            "degree": 3.674255,
+            "tropical": 357.882557,
+            "sidereal": 333.674255
+        },
+        "Ketu (South Node)": {
+            "sign": "Pisces",
+            "degree": 3.674255,
+            "tropical": 357.882557,
+            "sidereal": 333.674255
+        }
+    }
+}
